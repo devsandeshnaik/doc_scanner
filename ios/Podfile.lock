@@ -1,29 +1,23 @@
 PODS:
-  - edge_detection (1.0.5):
-    - Flutter
-    - WeScan
   - Flutter (1.0.0)
   - WeScan (1.7.0)
 
 DEPENDENCIES:
-  - edge_detection (from `.symlinks/plugins/edge_detection/ios`)
   - Flutter (from `Flutter`)
+  - WeScan (>= 0.9)
 
 SPEC REPOS:
   trunk:
     - WeScan
 
 EXTERNAL SOURCES:
-  edge_detection:
-    :path: ".symlinks/plugins/edge_detection/ios"
   Flutter:
     :path: Flutter
 
 SPEC CHECKSUMS:
-  edge_detection: a3fd1c8893a45e9e429ac2d484b1e4a2a5d1ed41
   Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
   WeScan: fed582f6c38014d529afb5aa9ffd1bad38fc72b7
 
-PODFILE CHECKSUM: 4e8f8b2be68aeea4c0d5beb6ff1e79fface1d048
+PODFILE CHECKSUM: 99f757b576d53f28f453ab1e7b57e3bb29ea2554
 
 COCOAPODS: 1.10.0
